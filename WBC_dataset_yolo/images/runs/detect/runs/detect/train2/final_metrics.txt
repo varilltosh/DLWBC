@@ -1,0 +1,7 @@
+Final YOLOv8 Metrics
+====================
+Precision      : 0.9396
+Recall         : 0.9240
+F1-Score       : 0.9317
+mAP@50         : 0.9479
+mAP@50-95      : 0.8047

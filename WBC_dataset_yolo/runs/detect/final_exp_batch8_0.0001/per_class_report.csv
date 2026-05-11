@@ -1,0 +1,6 @@
+Class,Precision,Recall,F1-Score,mAP50
+Basophils,0.8996,1.0,0.9471,0.9859
+Eosinophils,0.9255,0.9231,0.9243,0.9559
+Lymphocytes,0.9583,0.981,0.9695,0.9872
+Monocytes,0.7825,0.8846,0.8304,0.9171
+Neutrophils,0.9188,0.9113,0.915,0.9554

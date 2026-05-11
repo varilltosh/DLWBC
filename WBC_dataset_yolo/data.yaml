@@ -1,0 +1,12 @@
+path: /home/skuba/skuba_ws/src/try_vision_project/wbc_project/website/WBC_dataset_yolo
+
+train: images/train
+val: images/val
+test: images/test   # optional
+
+names:
+  0: Basophils
+  1: Eosinophils
+  2: Lymphocytes
+  3: Monocytes
+  4: Neutrophils

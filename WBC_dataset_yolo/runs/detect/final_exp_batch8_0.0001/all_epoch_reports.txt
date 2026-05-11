@@ -1,0 +1,60 @@
+
+Epoch 50
+Final YOLOv8 Metrics
+====================
+Precision      : 0.9424
+Recall         : 0.8997
+F1-Score       : 0.9206
+mAP@50         : 0.9566
+mAP@50-95      : 0.8053
+
+Per-Class YOLOv8 Report
+========================
+
+      Class  Precision  Recall  F1-Score  mAP50
+  Basophils     1.0000  0.9295    0.9635 0.9950
+Eosinophils     0.9211  0.8981    0.9095 0.9464
+Lymphocytes     0.9567  0.9905    0.9733 0.9830
+  Monocytes     0.9337  0.7692    0.8435 0.9000
+Neutrophils     0.9004  0.9113    0.9058 0.9588
+
+
+Epoch 100
+Final YOLOv8 Metrics
+====================
+Precision      : 0.8994
+Recall         : 0.9243
+F1-Score       : 0.9117
+mAP@50         : 0.9403
+mAP@50-95      : 0.7946
+
+Per-Class YOLOv8 Report
+========================
+
+      Class  Precision  Recall  F1-Score  mAP50
+  Basophils     0.8987  1.0000    0.9466 0.9859
+Eosinophils     0.8944  0.9126    0.9035 0.9482
+Lymphocytes     0.9236  0.9905    0.9559 0.9725
+  Monocytes     0.9088  0.7670    0.8319 0.8543
+Neutrophils     0.8714  0.9516    0.9097 0.9404
+
+
+Epoch latest/best
+Final YOLOv8 Metrics
+====================
+Precision      : 0.8969
+Recall         : 0.9400
+F1-Score       : 0.9179
+mAP@50         : 0.9603
+mAP@50-95      : 0.8130
+
+Per-Class YOLOv8 Report
+========================
+
+      Class  Precision  Recall  F1-Score  mAP50
+  Basophils     0.8996  1.0000    0.9471 0.9859
+Eosinophils     0.9255  0.9231    0.9243 0.9559
+Lymphocytes     0.9583  0.9810    0.9695 0.9872
+  Monocytes     0.7825  0.8846    0.8304 0.9171
+Neutrophils     0.9188  0.9113    0.9150 0.9554
+

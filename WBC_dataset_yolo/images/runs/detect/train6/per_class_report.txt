@@ -1,0 +1,9 @@
+Per-Class YOLOv8 Report
+========================
+
+      Class  Precision  Recall  F1-Score  mAP50
+  Basophils     0.9028  0.9310    0.9167 0.9859
+Eosinophils     0.9370  0.8923    0.9141 0.9634
+Lymphocytes     0.9371  0.9931    0.9643 0.9874
+  Monocytes     1.0000  0.7121    0.8319 0.9122
+Neutrophils     0.9206  0.9350    0.9278 0.9717
