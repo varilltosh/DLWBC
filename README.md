@@ -8,8 +8,8 @@
 - 6510552787 Varintorn Marktoum — YOLOv8 Training, Evaluation, Comparison Analysis, GitHub Repository
 
 ---
-### Full Report
-[Download Final Report](final_report.pdf)
+### For a detailed report and graphs, please refer to the report link below.
+[Final Report](final_report.pdf)
 
 ## 1. Project Topic
 
