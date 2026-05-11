@@ -50,8 +50,6 @@ DLWBC/
 └── WBC_dataset_yolo/             # Dataset (YOLO format)
 ```
 
-**GitHub:** https://github.com/varilltosh/DLWBC/tree/main
-
 ---
 
 ## 5. Model Architecture — CustomWBC_CNN
