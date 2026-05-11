@@ -28,3 +28,4 @@ def autolabel_image(image_path):
         })
 
     return boxes
+#sdsd
